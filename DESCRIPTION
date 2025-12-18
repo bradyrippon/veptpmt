@@ -1,9 +1,9 @@
 Package: veptpmt
-Title: What the Package Does (One Line, Title Case)
+Title: Run VEPT PMT App
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Brady", "Rippon", , "brr7014@med.cornell.edu", role = c("aut", "cre"))
+Description: Run the VEPT PMT Quarterly Report Shiny app.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
